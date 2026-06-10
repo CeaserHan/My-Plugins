@@ -1,1 +1,1 @@
-# mye-plugins
+# my-plugins
