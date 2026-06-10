@@ -1,1 +1,1 @@
-# my-claude-plugins
+# mye-plugins
