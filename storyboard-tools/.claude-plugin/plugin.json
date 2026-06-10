@@ -1,0 +1,9 @@
+{
+  "name": "storyboard-tools",
+  "version": "0.1.0",
+  "description": "影视分镜工具包：将分镜脚本草稿扩写为完整人类可读分镜，再生成即梦 Seedance 2.0 提示词生产列表。",
+  "author": {
+    "name": "Taylorel Mcleandi"
+  },
+  "keywords": ["storyboard", "seedance", "film", "video", "即梦", "分镜"]
+}
