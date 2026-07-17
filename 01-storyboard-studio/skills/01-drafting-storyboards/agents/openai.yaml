@@ -1,0 +1,6 @@
+interface:
+  display_name: "01-分镜草稿"
+  short_description: "把叙事文本拆成可审核的单行分镜草稿并暂停。"
+  default_prompt: "使用 $01-drafting-storyboards 把我提供的叙事文本拆成分镜草稿；未指定创作者时使用通用模式，并在草稿审核后停止等待我明确确认。"
+policy:
+  allow_implicit_invocation: true

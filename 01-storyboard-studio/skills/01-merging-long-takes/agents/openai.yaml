@@ -1,0 +1,6 @@
+interface:
+  display_name: "01-长镜头合并"
+  short_description: "推荐长镜头候选，或按指定编号合并并再次暂停审核。"
+  default_prompt: "使用 $01-merging-long-takes 推荐已锁定草稿中的长镜头候选；如我明确指定编号并要求合并，再输出完整修订草稿并停止等待确认。"
+policy:
+  allow_implicit_invocation: true

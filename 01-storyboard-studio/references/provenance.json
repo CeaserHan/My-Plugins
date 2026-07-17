@@ -1,0 +1,157 @@
+{
+  "schema_version": 1,
+  "copy_date": "2026-07-16",
+  "copy_policy": "exact-byte-copy",
+  "files": [
+    {
+      "source_absolute_path": "C:\\Users\\EDY\\Desktop\\视觉语言\\1.景别-shot-scale.md",
+      "plugin_relative_path": "references/visual-language/library/1.景别-shot-scale.md",
+      "sha256": "022d9ac1b0625470a14cfcd2b88f3d8fc0c9b5c405d8b4bcd6987bf8296d7912"
+    },
+    {
+      "source_absolute_path": "C:\\Users\\EDY\\Desktop\\视觉语言\\2.机位-camera-setup.md",
+      "plugin_relative_path": "references/visual-language/library/2.机位-camera-setup.md",
+      "sha256": "2a12189d43d8889d64dce9b49d3067a2a3099e41f1041a64bc8e8e5d1fdd4afc"
+    },
+    {
+      "source_absolute_path": "C:\\Users\\EDY\\Desktop\\视觉语言\\3.焦段-focal-length.md",
+      "plugin_relative_path": "references/visual-language/library/3.焦段-focal-length.md",
+      "sha256": "474a7bcc3d70df5c502059b7f3755d4718d759e0c87b7bf57ff5510df46da939"
+    },
+    {
+      "source_absolute_path": "C:\\Users\\EDY\\Desktop\\视觉语言\\4.运镜-camera-movement.md",
+      "plugin_relative_path": "references/visual-language/library/4.运镜-camera-movement.md",
+      "sha256": "f5ac221152f8a5752f226c772cd7f1238bdfb29b2a56f5b28e203ea8b0c753a2"
+    },
+    {
+      "source_absolute_path": "C:\\Users\\EDY\\Desktop\\视觉语言\\5.轴线-axis-line.md",
+      "plugin_relative_path": "references/visual-language/library/5.轴线-axis-line.md",
+      "sha256": "4a811d4d9900176f36d3c410006ce3880d68469b6c62a557d6dc1f0281f65097"
+    },
+    {
+      "source_absolute_path": "C:\\Users\\EDY\\Desktop\\视觉语言\\6.调度-blocking.md",
+      "plugin_relative_path": "references/visual-language/library/6.调度-blocking.md",
+      "sha256": "3cf48eb6da51f9869ca8c3d5c65cbfb1b3cfe6de62c109e1959b97a42614742b"
+    },
+    {
+      "source_absolute_path": "C:\\Users\\EDY\\Desktop\\视觉语言\\7.构图-composition.md",
+      "plugin_relative_path": "references/visual-language/library/7.构图-composition.md",
+      "sha256": "a0a2f1184be8bab3d1acae52433ec6af7ce1f0721d5db134cb2b480d96bd2b67"
+    },
+    {
+      "source_absolute_path": "C:\\Users\\EDY\\Desktop\\视觉语言\\8.影调-light-and-color.md",
+      "plugin_relative_path": "references/visual-language/library/8.影调-light-and-color.md",
+      "sha256": "42eb29db10056273876dab17a75b1bb83bb69203aba6e3a01fd6544a2de43852"
+    },
+    {
+      "source_absolute_path": "C:\\Users\\EDY\\Desktop\\新建文件夹 (2)\\1.阿尔弗雷德·希区柯克_镜头与分镜形式语言.md",
+      "plugin_relative_path": "references/directing/library/1.阿尔弗雷德·希区柯克_镜头与分镜形式语言.md",
+      "sha256": "fa42907c4c0d0d3a120f2e6af46f116b65bc9f0c10f6c592517d9cee21d7ad10"
+    },
+    {
+      "source_absolute_path": "C:\\Users\\EDY\\Desktop\\新建文件夹 (2)\\2.约翰·福特_镜头与分镜形式语言.md",
+      "plugin_relative_path": "references/directing/library/2.约翰·福特_镜头与分镜形式语言.md",
+      "sha256": "94a52f47ae597b2365fb43dae7de4ebdc5f8df6727970eb8b62145f0c58293a3"
+    },
+    {
+      "source_absolute_path": "C:\\Users\\EDY\\Desktop\\新建文件夹 (2)\\3.黑泽明_镜头与分镜形式语言.md",
+      "plugin_relative_path": "references/directing/library/3.黑泽明_镜头与分镜形式语言.md",
+      "sha256": "d6c3abb3e1e11f3497ff2829aba9b237fb81acf05ed059420e52843ed2e85525"
+    },
+    {
+      "source_absolute_path": "C:\\Users\\EDY\\Desktop\\新建文件夹 (2)\\4.斯坦利·库布里克_镜头与分镜形式语言.md",
+      "plugin_relative_path": "references/directing/library/4.斯坦利·库布里克_镜头与分镜形式语言.md",
+      "sha256": "e440983577d36f26bf05341c4dc02a3e20d607a38b412d9fc10b2049ee9a30c1"
+    },
+    {
+      "source_absolute_path": "C:\\Users\\EDY\\Desktop\\新建文件夹 (2)\\5.小津安二郎_镜头与分镜形式语言.md",
+      "plugin_relative_path": "references/directing/library/5.小津安二郎_镜头与分镜形式语言.md",
+      "sha256": "e3859c542a5be164d4c5f7a1b11ae8d1fb607c4d5ad2273d79da221850772ef1"
+    },
+    {
+      "source_absolute_path": "C:\\Users\\EDY\\Desktop\\新建文件夹 (2)\\6.安德烈·塔可夫斯基_镜头与分镜形式语言.md",
+      "plugin_relative_path": "references/directing/library/6.安德烈·塔可夫斯基_镜头与分镜形式语言.md",
+      "sha256": "2f42236ff613461f615f76b90f02f1825afa938b386aacd8df078478bef9de40"
+    },
+    {
+      "source_absolute_path": "C:\\Users\\EDY\\Desktop\\新建文件夹 (2)\\7.胡金铨_镜头与分镜形式语言.md",
+      "plugin_relative_path": "references/directing/library/7.胡金铨_镜头与分镜形式语言.md",
+      "sha256": "04b69870f9682d6e26af9b745e678aaa058e0e488760589eb9926dac09e5423e"
+    },
+    {
+      "source_absolute_path": "C:\\Users\\EDY\\Desktop\\新建文件夹 (2)\\8.赛尔乔·莱昂内_镜头与分镜形式语言.md",
+      "plugin_relative_path": "references/directing/library/8.赛尔乔·莱昂内_镜头与分镜形式语言.md",
+      "sha256": "716f1846202fd8b159bd82849e4e240a1f126635eb2c0b295bca022ea6934adc"
+    },
+    {
+      "source_absolute_path": "C:\\Users\\EDY\\Desktop\\新建文件夹 (2)\\9.马丁·斯科塞斯_镜头与分镜形式语言.md",
+      "plugin_relative_path": "references/directing/library/9.马丁·斯科塞斯_镜头与分镜形式语言.md",
+      "sha256": "e7c6272594183bc1537c1597d2c011b333e7a712137e325547ffbd2248485946"
+    },
+    {
+      "source_absolute_path": "C:\\Users\\EDY\\Desktop\\新建文件夹 (2)\\10.史蒂文·斯皮尔伯格_镜头与分镜形式语言.md",
+      "plugin_relative_path": "references/directing/library/10.史蒂文·斯皮尔伯格_镜头与分镜形式语言.md",
+      "sha256": "654a1b7a28b7cdfd1e051cc9197ce88a5ff2f0437f55e1ccb978520e39bad578"
+    },
+    {
+      "source_absolute_path": "C:\\Users\\EDY\\Desktop\\新建文件夹 (2)\\11.詹姆斯·卡梅隆_镜头与分镜形式语言.md",
+      "plugin_relative_path": "references/directing/library/11.詹姆斯·卡梅隆_镜头与分镜形式语言.md",
+      "sha256": "c65306bdce55fe4d90074f0d4aef748a49efd7f1a8fc9be7aee68042949a9aa6"
+    },
+    {
+      "source_absolute_path": "C:\\Users\\EDY\\Desktop\\新建文件夹 (2)\\12.杨德昌_镜头与分镜形式语言.md",
+      "plugin_relative_path": "references/directing/library/12.杨德昌_镜头与分镜形式语言.md",
+      "sha256": "e33f218054611e00ff3bd74f07b1667f63297e5a6df5ffbc21f6439db574b838"
+    },
+    {
+      "source_absolute_path": "C:\\Users\\EDY\\Desktop\\新建文件夹 (2)\\13.侯孝贤_镜头与分镜形式语言.md",
+      "plugin_relative_path": "references/directing/library/13.侯孝贤_镜头与分镜形式语言.md",
+      "sha256": "87af7c9111067b2564edb8ff857f5159a362d4082418dd83a3c183bb6aa78016"
+    },
+    {
+      "source_absolute_path": "C:\\Users\\EDY\\Desktop\\新建文件夹 (2)\\大卫·芬奇_镜头与分镜形式语言.md",
+      "plugin_relative_path": "references/directing/library/大卫·芬奇_镜头与分镜形式语言.md",
+      "sha256": "a514744be5d00ccb71e9b796b60b1d11f3c3053de16da2c7ca4d3dfe1e63af23"
+    },
+    {
+      "source_absolute_path": "C:\\Users\\EDY\\Desktop\\新建文件夹 (2)\\丹尼斯·维伦纽瓦_镜头与分镜形式语言.md",
+      "plugin_relative_path": "references/directing/library/丹尼斯·维伦纽瓦_镜头与分镜形式语言.md",
+      "sha256": "00cca347d5c5093976a830f0a7f6e7c679b42b12d3d18e5b478a5707c860da68"
+    },
+    {
+      "source_absolute_path": "C:\\Users\\EDY\\Desktop\\新建文件夹 (2)\\科恩兄弟_镜头与分镜形式语言.md",
+      "plugin_relative_path": "references/directing/library/科恩兄弟_镜头与分镜形式语言.md",
+      "sha256": "ba27ff38312b19906132b14f9520255e9e429300b0146de8fb53f6d46929b41c"
+    },
+    {
+      "source_absolute_path": "C:\\Users\\EDY\\Desktop\\新建文件夹 (2)\\克里斯托弗·诺兰_镜头与分镜形式语言.md",
+      "plugin_relative_path": "references/directing/library/克里斯托弗·诺兰_镜头与分镜形式语言.md",
+      "sha256": "3ac9e2c000e840315e7a67eaa47e7aff08bef6793394fe27490b12ae98c42d89"
+    },
+    {
+      "source_absolute_path": "C:\\Users\\EDY\\Desktop\\新建文件夹 (2)\\昆汀·塔伦蒂诺_镜头与分镜形式语言.md",
+      "plugin_relative_path": "references/directing/library/昆汀·塔伦蒂诺_镜头与分镜形式语言.md",
+      "sha256": "ce1b7a82e18557c694f34ea38f3d1ed3e7cb804cb4e6de66dd957ac80368e2fb"
+    },
+    {
+      "source_absolute_path": "C:\\Users\\EDY\\Desktop\\新建文件夹 (2)\\迈克尔·贝_镜头与分镜形式语言.md",
+      "plugin_relative_path": "references/directing/library/迈克尔·贝_镜头与分镜形式语言.md",
+      "sha256": "ac850eea915ba53fa6da5a3bc1b28402719ba259d3a82200501b4ab5a222fb38"
+    },
+    {
+      "source_absolute_path": "C:\\Users\\EDY\\Desktop\\新建文件夹 (2)\\扎克·施奈德_镜头与分镜形式语言.md",
+      "plugin_relative_path": "references/directing/library/扎克·施奈德_镜头与分镜形式语言.md",
+      "sha256": "b484c23383b943802de750159052621f91791fb3b9d5f22a43bc843167ac5c2e"
+    },
+    {
+      "source_absolute_path": "C:\\Users\\EDY\\Desktop\\新建文件夹 (2)\\文斯·吉利根与彼得·古尔德_绝命毒师与风骚律师_镜头与分镜形式语言.md",
+      "plugin_relative_path": "references/directing/library/文斯·吉利根与彼得·古尔德_绝命毒师与风骚律师_镜头与分镜形式语言.md",
+      "sha256": "bfc38aa60088e8efb21b7c903f5f1155fa8ecde6de040a0a8a749d14b1cb9dc5"
+    },
+    {
+      "source_absolute_path": "C:\\Users\\EDY\\Desktop\\新建文件夹 (2)\\罗杰·狄金斯_摄影构图与镜头形式语言.md",
+      "plugin_relative_path": "references/directing/library/罗杰·狄金斯_摄影构图与镜头形式语言.md",
+      "sha256": "80d0418fd30a5ed41b8b1f42273924bcdc4a5d9617948d025c9298679ccfea14"
+    }
+  ]
+}
