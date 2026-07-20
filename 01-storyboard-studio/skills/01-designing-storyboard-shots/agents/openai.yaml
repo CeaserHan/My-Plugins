@@ -1,0 +1,6 @@
+interface:
+  display_name: "01-分镜镜头设计"
+  short_description: "把已确认草稿扩写成可复制到 Seedance 的详细镜头。"
+  default_prompt: "使用 $01-designing-storyboard-shots 对我已经明确确认的最终草稿做标准模式详细镜头设计；保持锁定内容、Seedance 固定引用行和每镜两行格式不变。"
+policy:
+  allow_implicit_invocation: true

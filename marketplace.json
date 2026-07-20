@@ -9,6 +9,15 @@
       "version": "0.1.0",
       "author": "Taylorel Mcleandi",
       "keywords": ["storyboard", "seedance", "film", "video", "即梦", "分镜"]
+    },
+    {
+      "id": "01-storyboard-studio",
+      "name": "01 Storyboard Studio",
+      "description": "审阅门控的分镜工作流：先锁定单行草稿，可选合并长镜头，再完成连续性受控的详细镜头设计。",
+      "path": "01-storyboard-studio",
+      "version": "0.1.0+codex.20260716064703",
+      "author": "EDY",
+      "keywords": ["storyboard", "shot-design", "long-take", "film", "分镜", "镜头设计"]
     }
   ]
 }
